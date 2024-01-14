@@ -1,1 +1,3 @@
-
+User-agent: *
+Allow: /
+Sitemap: https://super189.github.io/dir/super/sitemap.xml
